@@ -2,3 +2,4 @@ MODULO DE CREAR CLIENTE
  - nobre
  - apellido
 -telefono
+-email
