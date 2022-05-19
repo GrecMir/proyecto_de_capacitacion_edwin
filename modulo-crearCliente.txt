@@ -1,5 +1,6 @@
 MODULO DE CREAR CLIENTE
- - nobre
+ - id
+ - nombre
  - apellido
--telefono
--email
+ -telefono
+ -email
